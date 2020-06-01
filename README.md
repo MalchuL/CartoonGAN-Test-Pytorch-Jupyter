@@ -43,7 +43,7 @@ python multitest.py --load_size=920
 ```
 
 
-## Examples (Left: input, Right: output)
+## Examples (First: input, Second: output)
 
 <p>
     <img src='test_img/test_photo.jpg' width=500 />
